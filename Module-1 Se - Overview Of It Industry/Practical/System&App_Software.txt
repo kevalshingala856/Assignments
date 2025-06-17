@@ -1,0 +1,7 @@
+ Application          	    Type
+
+Android OS		System Software
+Google Chrome		Application Software
+Whatsapp		Application Software
+File Manager		System Software
+Youtube App		Application Software
